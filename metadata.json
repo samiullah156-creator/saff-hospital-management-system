@@ -1,0 +1,9 @@
+{
+  "name": "Saff Hospital Manager",
+  "description": "A comprehensive Hospital Management System for Saff Hospital, Rahim Yar Khan. Features patient management, appointment booking workflows, and an AI health assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
